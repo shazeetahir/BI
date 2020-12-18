@@ -16,12 +16,10 @@ Une fois qu’on a une source de données, on peut injecter les données dans 
 Ensuite on peut commencer avec le Google Data Studio. On clicque sur ‘Black Report’ et on sélectionne Google Sheets et on aura la liste de tous les Google Sheets lié avec le même compte google. On sélectionne ‘Add to Report’ et c’est rajouté.
 
 # Ressources pédagogiques
-https://www.youtube.com/watch?v=_CNnparrSgs&feature=youtu.be&ab_channel=DynamicDigital%E2%80%A 2Solutions%26Consulting
-https://www.youtube.com/watch?v=zHpxMIiJrTA&feature=youtu.be&ab_channel=LovesData
 https://www.youtube.com/watch?v=KJqmnOIFqI4&feature=youtu.be&ab_channel=ProfessionalGrooming
-https://data.world/chasewillden/netflix-shows
-https://www.journaldunet.com/solutions/analytics/1488767-comment-creer-des-rapports-clients-coherents- avec-google-data-studio/
-https://www.geckoboard.com/best-practice/data-visualization-tips/ https://www.geckoboard.com/best-practice/dashboard-design/ https://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf          
+J'ai appris comment a partir d'un simple fichier csv on peut créer un Dashboard dynamique en utilisant Google Sheets ainsi que le choix d'un template, les differents type des charts, les choix des metrics, dimensions, utilisation intelligente de la couleur et la hierarchie des tailles pour communiquer l'importance, et la mise en pages pour présenter l'information concernant ce page.
+
 https://support.google.com/analytics/answer/1069386?hl=en
+J'ai appris comment je peux sécuriser et partager mon dashboard avec des droits limités grace a ce lien.
 
 Tous ces liens ont été envoyé par le professeur et ces liens m’ont aidé beaucoup pour la bonne compréhension de l’utilisation de Google Data Studio.
